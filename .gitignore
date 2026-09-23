@@ -9,3 +9,4 @@ ENV/
 __pycache__/
 *.pyc
 .DS_Store
+test_env.py
