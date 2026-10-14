@@ -1,0 +1,12 @@
+[
+    {
+      "question": "What is the purpose of backpropagation in a neural network?",
+      "expected_keywords": ["gradient", "cost", "weights", "biases", "descent"],
+      "target_video_id": "glLO8cnwj6s"
+    },
+    {
+      "question": "How are monitoring and alerting used in an ML project lifecycle?",
+      "expected_keywords": ["monitoring", "alert", "feedback", "cycle"],
+      "target_video_id": "glLO8cnwj6s"
+    }
+  ]
